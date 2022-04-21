@@ -1,2 +1,0 @@
-# Academia-Infinity
-LandingPage Academia
